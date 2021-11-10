@@ -95,15 +95,15 @@ Faça um clone deste repositório e instale no seu ambiente de desenvolvimento u
 git clone https://github.com/aluiziodeveloper/avancando-com-nestjs.git
 ```
 
-Após clonar o conteúdo do repositório, acesse o diretório criado e execute o comando abaixo para criar e executar os containers Docker da aplicação e do banco de dados MongoDB:
+Após clonar o conteúdo do repositório, acesse o diretório criado e efetue a instalação das dependências:
 
 ```shell
 cd avancando-com-nestjs
 
-docker-compose up
+npm install
 ```
 
-Após essa a instalação e inicialização dos containers Docker, a aplicação estará em execução no endereço `http://localhost:3000`.
+Após essa instalação execute a aplicação com o comando `npm run start:dev`. O servidor estará em execução no endereço `http://localhost:3000`.
 
 ## Redes Sociais
 
