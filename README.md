@@ -9,9 +9,11 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 ## Curso de Fundamentos do Framework NestJS - Módulo Mongoose
 
-Seja muito bem-vindo ao curso sobre os fundamentos do framework web NestJS.
+Seja muito bem-vindo e bem-vinda ao curso de fundamentos do framework web NestJS.
 
 Eu sou o Jorge Aluizio e estarei contigo nessa jornada de aprendizado com esse framework para Node.js, que vem pouco a pouco conquistando seu espaço junto a comunidade de desenvolvedores de backend com Javascript e Node.js.
+
+Acesse a [página do curso na Udemy](https://www.udemy.com/course/nestjs-do-zero/?referralCode=E243D33202CF4A06C488) para conferir o conteúdo.
 
 ## Objetivo
 
